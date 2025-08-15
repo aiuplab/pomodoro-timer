@@ -2,7 +2,9 @@
 
 A simple, cross-platform Pomodoro Technique timer built with Python and its built-in Tkinter library.
 
-## ![Screenshot](https://i.imgur.com/Apfvl7G.png) ✨ Features
+## ![Screenshot](https://i.imgur.com/Apfvl7G.png) 
+
+##✨ Features
 
 - 🍅 **Pomodoro Technique**: Alternate between focused work sessions and short breaks to boost productivity.
 - ⚙️ **Customizable Times**: Easily set your desired duration for both work and rest periods.
